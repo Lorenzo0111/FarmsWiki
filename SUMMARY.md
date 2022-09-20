@@ -4,6 +4,7 @@
 * [Configuration](configuration.md)
 * [Using addons](addons.md)
 * [Terms Of Service](tos.md)
+* [Permissions](permissions.md)
 
 ## Links
 

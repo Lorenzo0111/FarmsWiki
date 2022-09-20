@@ -1,6 +1,6 @@
 # Permissions
 
-## This are all the permissions:
+## These are all the permissions:
 - `farms.admin` - Gives you access to all the admin functions.
 - `farms.create`- Allows you to create a farm.
 - `farms.list` - Allows you to list all the farm types.
